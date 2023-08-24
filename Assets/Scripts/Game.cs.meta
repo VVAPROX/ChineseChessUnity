@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 16c09ef38d4836a4385238c61f75902e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - chesspiece: {fileID: 6187082581541620676, guid: fea063cd2d2fe904ebfba28fa64f41e3, type: 3}
+  - chessWhite: {fileID: 8140220754540994463, guid: 46b5ba5f1de83ef419d065bc604f1493, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

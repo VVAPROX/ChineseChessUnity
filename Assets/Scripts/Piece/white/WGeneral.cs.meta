@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 31249ebfecd64394bda630db75db4778
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - whiteCannon: {instanceID: 0}
+  - whiteChariot: {instanceID: 0}
+  - whiteElephant: {instanceID: 0}
+  - whiteGeneral: {fileID: 21300036, guid: ebe1133c0bd2d8647ba2dd0c9d2054aa, type: 3}
+  - whiteGuard: {instanceID: 0}
+  - whiteHorse: {instanceID: 0}
+  - whiteSoldier: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
